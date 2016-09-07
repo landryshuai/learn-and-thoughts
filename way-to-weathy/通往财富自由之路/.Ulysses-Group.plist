@@ -6,6 +6,16 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>2016-07-27-2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494933406.84816599</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
 			<key>2016-7-27.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -23,6 +33,9 @@
 		<array>
 			<string>2016-7-27.md</string>
 		</array>
+		<array>
+			<string>2016-07-27-2.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -31,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>2</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
