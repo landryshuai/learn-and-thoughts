@@ -16,6 +16,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>android-debug.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496219895.81434703</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
 			<key>architect.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -36,6 +46,9 @@
 		<array>
 			<string>architect.md</string>
 		</array>
+		<array>
+			<string>android-debug.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -44,7 +57,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
