@@ -36,6 +36,16 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>李笑来读书live.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496239612.22768599</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -49,6 +59,9 @@
 		<array>
 			<string>android-debug.md</string>
 		</array>
+		<array>
+			<string>李笑来读书live.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -57,7 +70,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>8</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
