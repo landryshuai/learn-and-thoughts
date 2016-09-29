@@ -6,6 +6,26 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>JS.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496313146.44436902</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>My_book_list.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496808363.80732799</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -57,10 +77,16 @@
 			<string>architect.md</string>
 		</array>
 		<array>
+			<string>My_book_list.md</string>
+		</array>
+		<array>
 			<string>android-debug.md</string>
 		</array>
 		<array>
 			<string>李笑来读书live.md</string>
+		</array>
+		<array>
+			<string>JS.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -70,7 +96,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>12</integer>
+			<integer>20</integer>
 		</dict>
 	</dict>
 </dict>
