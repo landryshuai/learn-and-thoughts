@@ -6,6 +6,16 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>law.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496900948.05080497</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
 			<key>把时间当朋友－第三版.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -23,6 +33,9 @@
 		<array>
 			<string>把时间当朋友－第三版.md</string>
 		</array>
+		<array>
+			<string>law.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -31,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>6</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 </dict>
