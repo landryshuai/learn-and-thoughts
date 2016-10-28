@@ -56,6 +56,26 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>从柏拉图到马克思.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499318162.38108498</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>33</integer>
+				</dict>
+			</dict>
+			<key>开智正典--阳志平的书单.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>497847794.91005999</real>
+				<key>version</key>
+				<dict>
+					<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
+					<integer>29</integer>
+				</dict>
+			</dict>
 			<key>李笑来读书live.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -74,10 +94,16 @@
 			<string>README.md</string>
 		</array>
 		<array>
+			<string>从柏拉图到马克思.md</string>
+		</array>
+		<array>
 			<string>architect.md</string>
 		</array>
 		<array>
 			<string>My_book_list.md</string>
+		</array>
+		<array>
+			<string>开智正典--阳志平的书单.md</string>
 		</array>
 		<array>
 			<string>android-debug.md</string>
@@ -96,7 +122,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>691311c831425bb8243fed4f0f6e11f1161a2d203c97be0141b73b90047ae527</key>
-			<integer>20</integer>
+			<integer>34</integer>
 		</dict>
 	</dict>
 </dict>
